@@ -9,3 +9,4 @@ To run our code, download all the csv files found at the URL below and place the
 https://www.drivendata.org/competitions/57/nepal-earthquake/data/
 <br>
 Library requirements and their versions can be found at the head of the SOTA notebook.
+Pretrain autoencoder model can be found [here](https://drive.google.com/drive/folders/1vt931njqGz0Wi6qYrbbh3dTaZNB6k-0T?usp=share_link)
